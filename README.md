@@ -1,5 +1,4 @@
-# 🚀 Laravel Project Setup Guide
-
+🚀 Laravel Realtime Chat App – Project Setup Guide
 Welcome to the Laravel project! Follow these steps to get your environment up and running smoothly.
 
 ---
